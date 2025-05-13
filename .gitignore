@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Large files
+*.zip
+*.rar
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Images
+*.jpg
+*.jpeg
+*.png
